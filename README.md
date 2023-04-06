@@ -1,4 +1,6 @@
 # Mail
+### Video Demo: https://youtu.be/xHWyup-DwnM
+<hr>
 Front-end for an email client that makes API calls to send and receive emails
 
 ## Technologies Used
