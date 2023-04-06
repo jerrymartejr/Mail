@@ -1,0 +1,17 @@
+textarea {
+    min-height: 400px;
+}
+
+#email {
+    border: 1px solid black;
+    padding: 0.5rem;
+}
+
+td {
+    min-width: 20rem;
+}
+
+#email:hover {
+    border: 2px solid black;
+    cursor: pointer;
+}
